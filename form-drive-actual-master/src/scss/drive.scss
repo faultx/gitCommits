@@ -1,0 +1,13 @@
+body{
+    margin: 0!important;
+    background-color: #F5F5F5!important;
+}
+
+@import './components/header.scss';
+@import './components/footer.scss';
+@import './components/pagenotfound.scss';
+
+@import './pages/home.scss';
+@import './pages/fileDetail.scss';
+@import './pages/linkDownload.scss';
+@import './pages/previewDownload.scss';

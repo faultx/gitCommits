@@ -1,0 +1,172 @@
+.login {
+    background-color: #fff;
+    width: 100%;
+    height: 100vh;
+  }
+  .login__container {
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+    display: flex;
+  }
+  .login__container--bg {
+    width: 50%;
+    height: 100%;
+    position: relative;
+  }
+  .login__container--bg .bg__overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #003e6b;
+    opacity: 32%;
+  }
+  .login__container--bg .bg__img {
+    width: 100%;
+    height: 100%;
+  }
+  .login__container--bg .bg__title {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    right: 0;
+    margin: 32px 32px 0 0;
+  }
+  .login__container--bg .bg__title h4 {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 500;
+    position: absolute;
+    right: 0;
+    line-height: 1;
+    bottom: 0;
+    margin: 0;
+  }
+  .login__container--form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    height: 100%;
+    margin: auto;
+  }
+  .login__container--form .form__container {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+  }
+  .login__container--form .form__container .form__title {
+    font-size: 24px;
+    font-weight: 600;
+    font-weight: medium;
+    color: #174171;
+    margin: 0;
+  }
+  .login__container--form .form__container .form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 48px;
+    align-items: center;
+  }
+  .login__container--form .form__container .form .lbl {
+    display: flex;
+    flex-direction: column;
+    font-size: 10px;
+    width: 100%;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  .login__container--form .form__container .form .lbl:last-of-type {
+    margin-top: 20px;
+  }
+  .login__container--form .form__container .form .lbl--default {
+    color: #174171;
+  }
+  .login__container--form .form__container .form .input {
+    height: 40px;
+    width: 100%;
+    font-size: 12px;
+    border-radius: 4px;
+    margin-top: 8px;
+    outline: none;
+    padding: 0 16px;
+    border: 1px solid #e0e0e0;
+    font-weight: normal;
+  }
+  .login__container--form .form__container .form .input--secondary {
+    background-color: #f0f5fb;
+  }
+  .login__container--form .form__container .form .input--secondary:hover {
+    border-color: #4a90e2;
+  }
+  .login__container--form .form__container .form .input--secondary:focus {
+    border-color: #174171;
+  }
+  .login__container--form .form__container .form .btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    padding: 0 48px;
+    margin-top: 64px;
+    font-size: 14px;
+    font-weight: 500;
+    outline: none;
+    border: none;
+    border-radius: 4px;
+  }
+  .login__container--form .form__container .form .btn--state-primary {
+    background-color: #4a90e2;
+    color: #fff;
+  }
+  .login__container--form .form__container .form .btn--state-primary:hover {
+    background-color: #1158a8;
+  }
+  .login__container--form .form__container .form__link {
+    display: flex;
+    text-decoration: none;
+    font-size: 12px;
+    margin: 40px auto 0;
+    color: #4a90e2;
+  }
+  .login__container--form .form__container .form__link:hover {
+    color: #1158a8;
+  }
+  
+   .warning {
+      margin-top: 5px;
+      font-size: 12px;
+      color: rgb(219, 108, 93);
+    }
+  .invalid_link{
+      width: 100%;
+        height: 100vh;
+      position: relative;
+      padding-bottom: 5rem;
+      padding-top: 2rem;
+      display: flex;
+      background-color: #e1efff;
+      align-items: center;
+      -webkit-box-align: center;
+      -webkit-box-align: center;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      -webkit-justify-content: center;
+  }
+  .invalid_img{
+    width: 14rem;
+    position: relative;
+    height: 14rem;
+  
+  }
+  .invalid_text{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+        Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+  font-size: 24px;
+  color: #1B4073;
+  }

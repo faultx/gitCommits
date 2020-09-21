@@ -1,0 +1,132 @@
+[
+    
+    {
+      "id":1,
+      "verzeichnis": "Kooperation digitastic.plus (vormals HSP.PLUS) 1",
+      "geandertam": "31.01.2019 21:15",
+      "detail":[
+        {
+            "id":1,
+            "verzeichnis": "1 Bestehendes Material HSP.PLUS",
+            "geandertam": "31.01.2019 21:15",
+            "dateityp":"PDF"
+        },
+        {
+            "id":2,
+            "verzeichnis": "1 Bestehendes Material HSP.PLUS",
+            "geandertam": "31.01.2019 21:15",
+            "dateityp":"JPEG"
+        },  
+        {   
+            "id":3,
+            "verzeichnis": "1 Bestehendes Material HSP.PLUS",
+            "geandertam": "31.01.2019 21:15",
+            "dateityp":"TXT"
+        },  
+        {   
+            "id":4,
+            "verzeichnis": "1 Bestehendes Material HSP.PLUS",
+            "geandertam": "31.01.2019 21:15",
+            "dateityp":"XLS"
+        }
+          
+      ]
+    },
+    {
+      "id":2,
+      "verzeichnis": "Kooperation digitastic.plus (vormals HSP.PLUS) 2",
+      "geandertam": "31.01.2019 21:15",
+      "detail":[
+        {
+            "id":1,
+            "verzeichnis": "2 Bestehendes Material HSP.PLUS",
+            "geandertam": "31.01.2019 21:15",
+            "dateityp":"PNG"
+        },
+        {
+            "id":2,
+            "verzeichnis": "2 Bestehendes Material HSP.PLUS",
+            "geandertam": "31.01.2019 21:15",
+            "dateityp":"JPEG"
+        },  
+        {   
+            "id":3,
+            "verzeichnis": "2 Bestehendes Material HSP.PLUS",
+            "geandertam": "31.01.2019 21:15",
+            "dateityp":"PDF"
+        },  
+        {   
+            "id":4,
+            "verzeichnis": "2 Bestehendes Material HSP.PLUS",
+            "geandertam": "31.01.2019 21:15",
+            "dateityp":"PDF"
+        }
+          
+      ]
+    },
+    {
+      "id":3,
+      "verzeichnis": "Kooperation digitastic.plus (vormals HSP.PLUS) 3",
+      "geandertam": "31.01.2019 21:15",
+      "detail":[
+        {
+            "id":1,
+            "verzeichnis": "3 Bestehendes Material HSP.PLUS",
+            "geandertam": "31.01.2019 21:15",
+            "dateityp":"TXT"
+        },
+        {
+            "id":2,
+            "verzeichnis": "3 Bestehendes Material HSP.PLUS",
+            "geandertam": "31.01.2019 21:15",
+            "dateityp":"PDF"
+        },  
+        {   
+            "id":3,
+            "verzeichnis": "3 Bestehendes Material HSP.PLUS",
+            "geandertam": "31.01.2019 21:15",
+            "dateityp":"XLS"
+        },  
+        {   
+            "id":4,
+            "verzeichnis": "3 Bestehendes Material HSP.PLUS",
+            "geandertam": "31.01.2019 21:15",
+            "dateityp":"JPG"
+        }
+          
+      ]
+    },
+    {
+      "id":4,
+      "verzeichnis": "Kooperation digitastic.plus (vormals HSP.PLUS) 4",
+      "geandertam": "31.01.2019 21:15",
+      "detail":[
+        {
+            "id":1,
+            "verzeichnis": "4 Bestehendes Material HSP.PLUS",
+            "geandertam": "31.01.2019 21:15",
+            "dateityp":"PDF"
+        },
+        {
+            "id":2,
+            "verzeichnis": "4 Bestehendes Material HSP.PLUS",
+            "geandertam": "31.01.2019 21:15",
+            "dateityp":"TXT"
+        },  
+        {   
+            "id":3,
+            "verzeichnis": "4 Bestehendes Material HSP.PLUS",
+            "geandertam": "31.01.2019 21:15",
+            "dateityp":"PDF"
+        },  
+        {   
+            "id":4,
+            "verzeichnis": "4 Bestehendes Material HSP.PLUS",
+            "geandertam": "31.01.2019 21:15",
+            "dateityp":"XLS"
+        }
+          
+      ]
+    }
+    
+]
